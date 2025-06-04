@@ -17,7 +17,7 @@ Free tool from hbf
 - `pkg install git`
 # MAIN INSTALLATIONS
 
-- `rm -rf Autos-c`
+- `rm -rf encrypter`
 - `git clone https://github.com/Hamii-king-06/emcryptet.git`
 - `cd encrypter`
 - `git pull`
