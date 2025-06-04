@@ -18,14 +18,9 @@ Free tool from hbf
 # MAIN INSTALLATIONS
 
 - `rm -rf Autos-c`
-
 - `git clone https://github.com/Hamii-king-06/emcryptet.git`
-
 - `cd encrypter`
-
 - `git pull`
-
 - `python Run.py`
-
 
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155912839)
