@@ -18,7 +18,7 @@ Free tool from hbf
 # MAIN INSTALLATIONS
 
 - `rm -rf Encrypter`
-- `git clone https://github.com/Hamii-king-06/Encryptet.git`
+- `git clone https://github.com/Hamii-king-06/Encrypter.git`
 - `cd Encrypter`
 - `git pull`
 - `python Run.py`
